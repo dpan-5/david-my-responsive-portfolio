@@ -1,0 +1,9 @@
+/* Setting background image of site */
+body {
+    background-image: url("../images/ignasi_pattern_s.png");
+}
+/* Setting styling of my name in navbar */
+#myName {
+    background-color: rgb(89, 199, 199);
+    color: white;
+}

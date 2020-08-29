@@ -4,6 +4,32 @@ body {
 }
 /* Setting styling of my name in navbar */
 #myName {
-    background-color: rgb(89, 199, 199);
+    background-color: #4AAAA5;
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 550;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4AAAA5;
+    font-weight: 550;
+}
+
+.col-sm-7 {
+    background-color: white;
+    margin-top: 75px;
+    padding: 25px;
+}
+
+img {
+    float: left; 
+    margin-right: 10px;
+}
+
+.btn {
+    background-color: #4AAAA5;
+    border-color: #4AAAA5;
+    border-radius: 0;
+    padding: 12px 20px 12px 20px;
 }

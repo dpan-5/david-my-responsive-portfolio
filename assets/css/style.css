@@ -22,7 +22,8 @@ h1 {
     padding: 25px;
 }
 
-img {
+/* Styling for headshot picture on about page */
+#headshot {
     float: left; 
     margin-right: 10px;
 }
@@ -32,4 +33,12 @@ img {
     border-color: #4AAAA5;
     border-radius: 0;
     padding: 12px 20px 12px 20px;
+}
+
+.footer-margin {
+    height: 100px;
+}
+
+img {
+    margin: 10px;
 }

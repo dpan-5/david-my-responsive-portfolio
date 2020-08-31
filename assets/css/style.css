@@ -46,3 +46,10 @@ footer {
     border-top-color: #4AAAA5!important;
     text-align: center;
 }
+
+/* Styling to fix images on portfolio page from leaking out of container when screen width changes to 767px */
+@media screen and (min-width: 576px) {
+    .col-sm-7 {
+        max-width: 100%;
+    }
+}

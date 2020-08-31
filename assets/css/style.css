@@ -2,7 +2,7 @@
 body {
     background-image: url("../images/ignasi_pattern_s.png");
 }
-/* Setting styling of my name in navbar */
+/* Styling of my name in navbar */
 #myName {
     background-color: #4AAAA5;
     color: white;
@@ -18,7 +18,7 @@ h1 {
 
 .col-sm-7 {
     background-color: white;
-    margin-top: 75px;
+    margin: 75px 15px 75px 15px;
     padding: 25px;
 }
 
@@ -28,6 +28,7 @@ h1 {
     margin-right: 10px;
 }
 
+/* Styling for button on Contact page */
 .btn {
     background-color: #4AAAA5;
     border-color: #4AAAA5;
@@ -35,10 +36,13 @@ h1 {
     padding: 12px 20px 12px 20px;
 }
 
-.footer-margin {
-    height: 100px;
-}
-
 img {
     margin: 10px;
+}
+
+/* Override styling for sticky footer */
+footer {
+    border-top-width: 5px!important;
+    border-top-color: #4AAAA5!important;
+    text-align: center;
 }

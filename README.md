@@ -2,7 +2,7 @@
 
 ## Description 
 
-For this project, I was given a set of images to replicate in order to create a responsive portfolio page, utilizing Bootstrap components and grid system.
+For this project, I was given a set of images to replicate in order to create a responsive portfolio page, utilizing Bootstrap components and grid system in order to ensure that the website renders well on various devices and screen sizes.
 
 ## My Portfolio
 ![Image of Screenshot](./assets/images/portfolio_image.png)
